@@ -17,5 +17,7 @@
 ## デプロイメント
 本リポジトリは GitHub Pages に最適化されており、メインブランチへ Push するだけで自動的にライブサイトとして公開されます。
 
+**🌐 Live Demo:** [https://kotao-boop.github.io/corporate-realestate/](https://kotao-boop.github.io/corporate-realestate/)
+
 ## ライセンス
 このプロジェクトのソースコードはオープンソース（MIT License）です。画像に関しては Unsplash のライセンス規約に準拠します。
